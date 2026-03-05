@@ -21,8 +21,7 @@ This addon includes server shops, player shops, auctions, banking, loans, and a 
 - Server Shop
 - Banker
 - Auction Master
-- (More coming soon)
-- 
+
 ## 💰 Economy Systems
 
 - Server Shops (Buy & Sell Offers)
@@ -37,8 +36,6 @@ This addon includes server shops, player shops, auctions, banking, loans, and a 
 2. Import into Minecraft Bedrock.
 3. Enable in your world.
 4. Ensure experimental features are enabled.
-
----
 
 ## 📖 Documentation
 
