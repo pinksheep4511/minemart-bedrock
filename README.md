@@ -1,5 +1,3 @@
-# 🏪 Minemart Bedrock
-
 Minemart Bedrock is a full-featured economy system for Minecraft Bedrock Edition. This addon is inspired by Minemart for Java Edition, except Minemart Bedrock uses NPCs instead of villagers and virtual shops with fixed prices.
 
 This addon includes server shops, player shops, auctions, banking, loans, and a dynamic NPC role system.
